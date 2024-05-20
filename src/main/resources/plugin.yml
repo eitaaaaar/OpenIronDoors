@@ -1,0 +1,4 @@
+name: openIronDoors
+version: '${project.version}'
+main: minecaft.openirondoors.OpenIronDoors
+api-version: '1.20'

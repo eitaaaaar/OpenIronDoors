@@ -1,0 +1,4 @@
+name: openIronDoors
+version: '1.0-SNAPSHOT'
+main: minecaft.openirondoors.OpenIronDoors
+api-version: '1.20'
